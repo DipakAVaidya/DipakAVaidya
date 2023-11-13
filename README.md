@@ -1,66 +1,59 @@
-[![MasterHead](https://img.freepik.com/free-vector/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_613284-1446.jpg?w=1060&t=st=1674496085~exp=1674496685~hmac=e665063ddc96b8025b3bfbd50e9951fbbc9606ed948cab9b24d22b3826594188)](https://github.com/DipakAVaidya)
 
-<h1 align="center">Hi 👋, I'm Dipak A. Vaidya</h1>
-<h3 align="center">Passionate Junior Full Stack Java Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://your-coding-image-url-here">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipakAVaidya&theme=blue-green)](https://github.com/DipakAVaidya)
+
+# Hi 👋, I'm Dipak A. Vaidya
+### Passionate Junior Full Stack Java Developer
+<!-- <img align="right" alt="Coding" width="400" src="https://your-coding-image-url-here"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DipakAVaidya&label=Profile%20views&color=0e75b6&style=flat" alt="DipakAVaidya" /> </p>
 
-- **Location:** Satak Arjuni, 441807, India
-- **Phone:** 7666021472
-- **Email:** deepvaidyaraw@gmail.com
-- **LinkedIn:** [Dipak A. Vaidya](https://www.linkedin.com/in/dipak-a-vaidya-1379401a4)
-- **Twitter:** [DIPAKVA67971611](https://x.com/DIPAKVA67971611?t=s_WO9MCsfQM-AevOopIu5Q&s=09)
-- **GitHub:** [DipakAVaidya](https://github.com/DipakAVaidya)
+- [![Location](https://img.shields.io/badge/Location-Satak%20Arjuni%2C%20441807%2C%20India-informational?style=for-the-badge&logo=map&logoColor=white)](#)
 
+- [![Phone](https://img.shields.io/badge/Phone-7666021472-informational?style=for-the-badge&logo=phone&logoColor=white)](#)
+
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepvaidyaraw@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-a-vaidya-1379401a4)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIPAKVA67971611)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipakAVaidya)
 
 ## Summary
 
-I am a dedicated and passionate Junior Full Stack Java Developer with a Bachelor's degree in Computer Science and Engineering from Rajiv Gandhi College Of Engineering, holding a commendable CGPA of 8.4. My diverse skill set includes HTML5, CSS3, JavaScript, Java, and Python, along with proficiency in Git/GitHub, Eclipse, PyCharm, and VS Code.
+I am a dedicated and passionate Junior Full Stack Java Developer with a Bachelor's degree in Computer Science and Engineering. My diverse skill set includes HTML5, CSS3, JavaScript, Java, React, MySql along with proficiency in Git/GitHub, Eclipse, and VS Code.
 
 ## Skills
 
-- **Front-End:** HTML5, CSS3, JavaScript, Bootstrap ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **Programming Languages:** Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white), Python, C++ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- **Tools:** Git/GitHub ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white), Eclipse, PyCharm, VS Code
-- **Frameworks:** Spring Boot ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white), React ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- **Database:** MySQL
-- **Scripting:** Bash
-- **Other:** XML, JDBC
+- **Front-End:** [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+- **Programming Languages:** [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+- **Tools:** [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#) [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
+- **Frameworks:** [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+- **Database:** [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+- **Scripting:** ![Bash Scripting](https://img.shields.io/badge/Bash_Scripting-<COLOR>?style=for-the-badge&logo=gnu-bash)
+
+- **Other:** [![XML](https://img.shields.io/badge/XML-<COLOR>?style=for-the-badge&logo=xml)](#)
+[![JDBC](https://img.shields.io/badge/JDBC-<COLOR>?style=for-the-badge&logo=java)](#)
+
 
 ## Certifications
 
-- Git & GitHub ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-- HTML5 & CSS3 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-- CLI & Bash Scripting
-- Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- C++ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- MySQL
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+- [![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](#) 
+- [![CLI & Bash Scripting](https://img.shields.io/badge/CLI_&_Bash_Scripting-logoColo=yellow?style=for-the-badge&logo=gnu-bash)](#)
 
-## Experience
+- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#) 
+- [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+- [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) 
+- [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-Currently gaining valuable experience as a Junior Full Stack Java Developer during my internship at Tata STRIVE. Working with a diverse skill set that includes Java, MySQL, Bash scripting, HTML, CSS, JavaScript, Spring Boot, Bootstrap, React, XML, and JDBC.
-
-## Personal Qualities
-
-- Quick learning ability
-- Attention to detail
-- Teamwork and adaptability
-- Ability to provide constructive feedback
-- Passion for exploring new technologies and reading historical books
-
-## Contact
-
-- **Phone:** 7666021472
-- **Email:** deepvaidyaraw@gmail.com
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dipak-a-vaidya-1379401a4) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [Twitter](https://x.com/DIPAKVA67971611?t=s_WO9MCsfQM-AevOopIu5Q&s=09) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [GitHub](https://github.com/DipakAVaidya) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-a-vaidya-1379401a4)
+-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIPAKVA67971611)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipakAVaidya)
 
-Thank you for considering my application. I am excited about the opportunity to contribute to your team's success and look forward to the possibility of an interview.
 
-Sincerely, Dipak A. Vaidya
+
+
+
+
+
